@@ -1,4 +1,4 @@
-## Map - PHP Dependency Injection Container
+## A PHP Dependency Injection Container
 
 ### Usage
 
@@ -25,7 +25,6 @@ $container->set(
         return new \stdClass
     }
 );
-
 
 ?>
 ```
